@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amaka-ekwueme
-- 👀 I’m interested in data analytics & information systems
+- 👀 I’m interested in business analytics & information systems
 - 🌱 I’m currently learning how to analyze data with excel, power bi & sql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - chiamaka.ekwueme@gmail.com
